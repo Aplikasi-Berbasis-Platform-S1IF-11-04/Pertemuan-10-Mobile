@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tubes-Web-APP-ABP
 Didik:
 didik wp@DESKTOP-Q87C3J0 MINGW64 ~/Downloads/Tubes ABP
@@ -165,3 +166,10 @@ Legion@anzy MINGW64 /c/Tugas IPPL TOKO BUKU (weka-fitur-ui)
 $ git push origin --delete weka-fitur-ui
 To https://github.com/AElius25/Tubes-Web-APP-ABP.git
  - [deleted]         weka-fitur-ui
+=======
+# Pertemuan-10-Mobile
+Pengumpulan cukup up Folder Nama - NIM
+Isi folder: 
+- Folder Source Code 
+- Folder SS 
+>>>>>>> 2eaaa35170bafcfc757f00c3da6ed14c953d0cfe
