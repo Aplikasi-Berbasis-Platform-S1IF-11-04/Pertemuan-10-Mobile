@@ -14,7 +14,7 @@ class AplikasiPraktikum extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Poster & Papan Skor'),
+          title: const Text('Poster dan papan skor'),
           backgroundColor: Colors.blue,
         ),
         body: const PenghitungMahasiswa(),
@@ -40,7 +40,11 @@ class _PenghitungMahasiswaState extends State<PenghitungMahasiswa> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Text(
+<<<<<<<< HEAD:Titanio Francy Naddiansa_2311102289/flutter_application_1/lib/mainn.dart
             'Jumlah Praktikum ABP yang Hadir:',
+========
+            'Jumlah Praktikan ABP yang Hadir:',
+>>>>>>>> a137ca0398fd7194a52562e0c0313522d76b3045:2311102150-Mohammad Nizal Maulana/sourcecode/flutter1/lib/mainn.dart
             style: GoogleFonts.poppins(
               fontSize: 24,
               fontWeight: FontWeight.bold,
