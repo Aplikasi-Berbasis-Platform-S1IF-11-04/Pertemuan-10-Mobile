@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 main() => runApp(flutter_1());
 
 
-class flutter1 extends StatelessWidget {
+class flutter_1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
   return MaterialApp(
